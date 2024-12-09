@@ -5,6 +5,7 @@
 
 - 📫 You can checkout my online [resume](https://motoish.github.io/resume/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=motoishi&show_icons=true&locale=en&layout=compact" alt="motoish" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motoish&show_icons=true&locale=en" alt="motoish" /></p>
 
 <!--
