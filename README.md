@@ -24,8 +24,8 @@
 </p>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=motoish&show_icons=true&theme=default&hide_border=true" alt="Yuan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motoish&layout=compact&theme=default&hide_border=true" alt="Yuan's top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=motoish&show_icons=true&theme=default&hide_border=true" alt="Yuan's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=motoish&layout=compact&theme=default&hide_border=true" alt="Yuan's top languages" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=motoish)
