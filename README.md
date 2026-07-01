@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuan</h1>
 <h3 align="center">I'm an Infrastructure and Backend Software Engineer.</h3>
 
-- 🌱 I’m currently developing a project for a commercial banking application
+- 🌱 I’m currently developing a platform for a Goal-Based Approach (GBA) wealth management service
 
 - 📫 You can checkout my online [resume](https://motoish.github.io/resume/)
 
