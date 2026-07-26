@@ -5,7 +5,7 @@
 
 - 📫 You can checkout my online [resume](https://resume.motoish.dev/)
 
-- 📚 Here is my [tech notes](https://motoish.github.io/jb-notes/)
+- 📚 Here is my [tech notes](https://tech-note.motoish.dev/)
 
 ## Tech Stack
 
