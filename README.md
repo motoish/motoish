@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently developing a platform for a Goal-Based Approach (GBA) wealth management service
 
-- 📫 You can checkout my online [resume](https://motoish.github.io/resume/)
+- 📫 You can checkout my online [resume](https://https://resume.motoish.dev/)
 
 - 📚 Here is my [tech notes](https://motoish.github.io/jb-notes/)
 
