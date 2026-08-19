@@ -10,6 +10,14 @@ Infrastructure & Backend Software Engineer.
 - [calver-release-action](https://github.com/motoish/calver-release-action)
 - [ipchecker](https://github.com/motoish/ipchecker)
 
+## Automation
+
+<!-- mortgage:start -->
+🏠 Mortgage payoff `{ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ }` **0.00%**
+
+<sub>🤖 Updated by GitHub Actions</sub>
+<!-- mortgage:end -->
+
 <details>
 <summary><b>Tech Stack</b></summary>
 
