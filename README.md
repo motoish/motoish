@@ -5,7 +5,7 @@ Infrastructure & Backend Software Engineer.
 - 🌱 Currently exploring Rust and developer tooling
 - 🌐 Check out my website: [motoish.dev](https://motoish.dev)
 - 🏠 Mortgage payoff <!-- mortgage:start -->`{ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ }` **0.00%**  
-  <sub>🤖 Updated by GitHub Actions · 2026-08-19</sub><!-- mortgage:end -->
+  <sub>🤖 Updated by GitHub Actions</sub><!-- mortgage:end -->
 
 <table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
@@ -35,10 +35,10 @@ Infrastructure & Backend Software Engineer.
 <table width="100%" cellspacing="0" cellpadding="0">
 
 <tr>
-<td width="220px" valign="middle">
+<td width="30%" valign="middle">
 <strong>Cloud & Infrastructure</strong>
 </td>
-<td valign="middle">
+<td width="70%" valign="middle">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
@@ -54,10 +54,10 @@ Infrastructure & Backend Software Engineer.
 </tr>
 
 <tr>
-<td width="220px" valign="middle">
+<td width="30%" valign="middle">
 <strong>Backend</strong>
 </td>
-<td valign="middle">
+<td width="70%" valign="middle">
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -68,10 +68,10 @@ Infrastructure & Backend Software Engineer.
 </tr>
 
 <tr>
-<td width="220px" valign="middle">
+<td width="30%" valign="middle">
 <strong>Database</strong>
 </td>
-<td valign="middle">
+<td width="70%" valign="middle">
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -81,10 +81,10 @@ Infrastructure & Backend Software Engineer.
 </tr>
 
 <tr>
-<td width="220px" valign="middle">
+<td width="30%" valign="middle">
 <strong>Systems</strong>
 </td>
-<td valign="middle">
+<td width="70%" valign="middle">
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
