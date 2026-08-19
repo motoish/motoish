@@ -43,20 +43,19 @@ progress_bar = "█" * filled + "▁" * (bar_capacity - filled)
 
 updated_at = datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y-%m-%d")
 
-replacement = f"""<!-- mortgage:start -->
-🏠 Mortgage payoff `{{ {progress_bar} }}` **{progress:.2f}%**
-
-<sub>🤖 Updated by GitHub Actions · {updated_at}</sub>
-<!-- mortgage:end -->"""
+replacement = (
+    f"`{{ {progress_bar} }}` **{progress:.2f}%**  \n"
+    f"  <sub>🤖 Updated by GitHub Actions · {updated_at}</sub>"
+)
 
 path = Path("README.md")
 readme = path.read_text(encoding="utf-8")
 
-pattern = r"<!-- mortgage:start -->" r".*?" r"<!-- mortgage:end -->"
+pattern = r"(<!-- mortgage:start -->)" r".*?" r"(<!-- mortgage:end -->)"
 
 updated, count = re.subn(
     pattern,
-    replacement,
+    rf"\1{replacement}\2",
     readme,
     flags=re.DOTALL,
 )
