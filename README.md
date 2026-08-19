@@ -7,9 +7,9 @@ Infrastructure & Backend Software Engineer.
 - 🏠 Mortgage payoff <!-- mortgage:start -->`{ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ }` **0.00%**  
   <sub>🤖 Updated by GitHub Actions</sub><!-- mortgage:end -->
 
-<table width="1000px" cellspacing="0" cellpadding="0">
+<table width="980px" cellspacing="0" cellpadding="0">
 <tr>
-<td width="500px" valign="top">
+<td width="490px" valign="top">
 
 <strong>Projects</strong>
 
@@ -17,7 +17,7 @@ Infrastructure & Backend Software Engineer.
 - [ipchecker](https://github.com/motoish/ipchecker)
 
 </td>
-<td width="500px" valign="top">
+<td width="490px" valign="top">
 
 <strong>Open Source</strong>
 
