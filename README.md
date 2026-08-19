@@ -1,9 +1,9 @@
 Infrastructure & Backend Software Engineer.  
 
-> ⚙️ Backend · ☁️ Cloud Infrastructure · 🛠️ Developer Automation
+> ☁️ Cloud Infrastructure · 🛠️ Developer Automation · ⚙️ Backend
 
 - 🌱 Currently exploring Rust and developer tooling
-- 🌐 Check out my website: [motoish.dev](https://motoish.dev)
+- 🌐 Check out my website: [https://motoish.dev](https://motoish.dev)
 
 <table width="980px" cellspacing="0" cellpadding="0">
 <tr>
