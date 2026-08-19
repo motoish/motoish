@@ -1,0 +1,23 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "1 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  notable-contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: pull_request
+          plugin_notable_repositories: yes
