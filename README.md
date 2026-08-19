@@ -4,8 +4,6 @@ Infrastructure & Backend Software Engineer.
 
 - 🌱 Currently exploring Rust and developer tooling
 - 🌐 Check out my website: [motoish.dev](https://motoish.dev)
-- 🏠 Mortgage payoff <!-- mortgage:start -->`{ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ }` **0.00%**  
-  <sub>🤖 Updated by GitHub Actions · 2026-08-19</sub><!-- mortgage:end -->
 
 <table width="980px" cellspacing="0" cellpadding="0">
 <tr>
