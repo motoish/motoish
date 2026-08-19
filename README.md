@@ -10,6 +10,10 @@ Infrastructure & Backend Software Engineer.
 - [calver-release-action](https://github.com/motoish/calver-release-action)
 - [ipchecker](https://github.com/motoish/ipchecker)
 
+## Open Source
+
+![Notable contributions](./metrics.plugin.notable.svg)
+
 ## Automation
 
 <!-- mortgage:start -->
