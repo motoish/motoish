@@ -4,6 +4,7 @@ Infrastructure & Backend Software Engineer.
 
 - 🌱 Currently exploring Rust and developer tooling
 - 🌐 Check out my website: [https://motoish.dev](https://motoish.dev)
+- 🪴 Find me on do-gu: [do-gu.niwa.dev/@motoish](https://do-gu.niwa.dev/@motoish)
 
 <table width="980px" cellspacing="0" cellpadding="0">
 <tr>
