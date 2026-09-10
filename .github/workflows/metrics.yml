@@ -19,5 +19,5 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_types: pull_request
+          plugin_notable_types: issue
           plugin_notable_repositories: yes
